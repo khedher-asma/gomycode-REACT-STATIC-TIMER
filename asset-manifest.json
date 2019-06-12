@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/khedher-asma/REACT-STATIC-TIMER/static/css/main.b874ecd0.chunk.css",
-    "main.js": "/khedher-asma/REACT-STATIC-TIMER/static/js/main.5b713c52.chunk.js",
-    "main.js.map": "/khedher-asma/REACT-STATIC-TIMER/static/js/main.5b713c52.chunk.js.map",
-    "runtime~main.js": "/khedher-asma/REACT-STATIC-TIMER/static/js/runtime~main.a8db3d8d.js",
-    "runtime~main.js.map": "/khedher-asma/REACT-STATIC-TIMER/static/js/runtime~main.a8db3d8d.js.map",
-    "static/js/2.3310f33a.chunk.js": "/khedher-asma/REACT-STATIC-TIMER/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/khedher-asma/REACT-STATIC-TIMER/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/khedher-asma/REACT-STATIC-TIMER/index.html",
-    "precache-manifest.5c9556afcb03b8afa1e4a2149752eb79.js": "/khedher-asma/REACT-STATIC-TIMER/precache-manifest.5c9556afcb03b8afa1e4a2149752eb79.js",
-    "service-worker.js": "/khedher-asma/REACT-STATIC-TIMER/service-worker.js",
-    "static/css/main.b874ecd0.chunk.css.map": "/khedher-asma/REACT-STATIC-TIMER/static/css/main.b874ecd0.chunk.css.map"
+    "main.css": "/REACT-STATIC-TIMER/static/css/main.b874ecd0.chunk.css",
+    "main.js": "/REACT-STATIC-TIMER/static/js/main.3caabb4a.chunk.js",
+    "main.js.map": "/REACT-STATIC-TIMER/static/js/main.3caabb4a.chunk.js.map",
+    "runtime~main.js": "/REACT-STATIC-TIMER/static/js/runtime~main.fd9d12a8.js",
+    "runtime~main.js.map": "/REACT-STATIC-TIMER/static/js/runtime~main.fd9d12a8.js.map",
+    "static/js/2.3310f33a.chunk.js": "/REACT-STATIC-TIMER/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/REACT-STATIC-TIMER/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/REACT-STATIC-TIMER/index.html",
+    "precache-manifest.a4b1f079ba56a6431f9d0327d0dc4a83.js": "/REACT-STATIC-TIMER/precache-manifest.a4b1f079ba56a6431f9d0327d0dc4a83.js",
+    "service-worker.js": "/REACT-STATIC-TIMER/service-worker.js",
+    "static/css/main.b874ecd0.chunk.css.map": "/REACT-STATIC-TIMER/static/css/main.b874ecd0.chunk.css.map"
   }
 }
